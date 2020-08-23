@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Right Light</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Automation</string>
+    <string name="title_notifications">Account</string>
+</resources>
